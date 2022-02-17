@@ -1,8 +1,7 @@
 # Parts list
 
 A list of parts needed to build the PBL on your own. This listing is specified for a single
-sparepartscontainer with 12 rows and 4 compartments per row. 3D printed parts are
-marked with „(3DP)“. 
+sparepartscontainer with 12 rows and 4 compartments per row. The exact measurements can be found in the [Technical Specification](../docs/TechnicalSpecsREADME.md). 3D printed parts are marked with „(3DP)“. 
 
 
 
