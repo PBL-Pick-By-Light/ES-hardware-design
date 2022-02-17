@@ -21,7 +21,7 @@ Compartment/drawer: 7cm x 14cm x 4cm
 
 two 3cm wide steelflaps on the backside of the container to hold the mechanisms with neodym magnets
 
-<img src="../Documentation/Users%20Guide/pictures/ContainerIlluminated.jpg" alt="front" width="400"/><img src="../Documentation/Users%20Guide/pictures/backsideContainer.jpg" alt="back" width="400"/>
+<img src="../Documentation/Users%20Guide/pictures/ContainerIlluminated.jpg" alt="front" width="360"/><img src="../Documentation/Users%20Guide/pictures/backsideContainer.jpg" alt="back" width="400"/>
 
 ## Wiring diagram
 
