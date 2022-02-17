@@ -18,9 +18,9 @@ The PBL project is an open source project and we highly encourage you to modify 
 ## Index
 
 * [docs][docslink]
- - [Parts Listing](docs/PartsListingREADME.md)
- - [Technical Specs](docs/TechnicalSpecsREADME.md)
- - [Assembly and Installation](docs/AssemblyAndInstallationREADME.md)
+  - [Parts Listing](docs/PartsListingREADME.md)
+  - [Technical Specs](docs/TechnicalSpecsREADME.md)
+  - [Assembly and Installation](docs/AssemblyAndInstallationREADME.md)
 * [Documentation][documentationlink]
 * [Fusion360][fusionlink]
 * [Master3DFiles][3dlink]
