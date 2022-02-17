@@ -14,6 +14,8 @@ LEDs: Adafruit Flora Smart NeoPixel RGB LED v2 (WS2812B controller)
 As for our attachement of LEDs we designed 3D printable parts to fit specifically:
 Spare parts container: 30,5cm x 15cm x 55cm
 Compartment/drawer: 7cm x 14cm x 4cm
+12 rows, 4 compartments per row
+two 3cm wide steelflaps on the backside of the container to hold the mechanisms with neodym magnets
 
 ## Wiring diagram
 
