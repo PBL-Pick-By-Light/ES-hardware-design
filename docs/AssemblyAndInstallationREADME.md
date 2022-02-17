@@ -24,4 +24,4 @@ Make sure your acrylic glass sheets are thin enough so each compartment can stil
 
 When everything is installed it should look something like this:
 
-<img src="../Documentation/Users%20Guide/pictures/kastenruckseite.jpg" alt="Backside small parts container" width="500"/>
+<img src="../Documentation/Users%20Guide/pictures/backsideContainer.jpg" alt="Backside small parts container" width="500"/>
